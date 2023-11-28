@@ -5,11 +5,7 @@ I'm passionate about programming, software development, and computer science, I 
 ![Static Badge](https://img.shields.io/badge/umarraj008-black?style=for-the-badge&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fumarraj008)
 ![Static Badge](https://img.shields.io/badge/umar--rajput-black?style=for-the-badge&logo=linkedin&logoColor=black&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fumar-rajput%2F)
 ![Static Badge](https://img.shields.io/badge/umar.rajput02%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=black&color=white)
-<br>
-<br>
-
 ### [Check out my website 🌐](http://umarrajput.co.uk)
-<br>
 <!--
 ![Static Badge](https://img.shields.io/badge/umarraj008-black?style=flat-square&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fumarraj008)
 ![Static Badge](https://img.shields.io/badge/umar--rajput-black?style=flat-square&logo=linkedin&logoColor=black&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fumar-rajput%2F)
