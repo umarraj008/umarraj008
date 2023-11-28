@@ -2,11 +2,19 @@
 
 I'm passionate about programming, software development, and computer science, I am a dedicated professional with a keen interest in creating innovative solutions. With a strong foundation in programming languages and frameworks, I am driven to deliver high-quality software applications.
 
-![Static Badge](https://img.shields.io/badge/umar--rajput-grey?style=for-the-badge&logo=linkedin&link=)
-![Static Badge](https://img.shields.io/badge/umarraj008-grey?style=for-the-badge&logo=github&link=)
-![Static Badge](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&link=mailo:umar.rajput02@gmail.com)
-![Static Badge](https://img.shields.io/badge/umarrajput.co.uk-grey?style=for-the-badge&logo=web&link=umarrajput.co.uk)
+![Static Badge](https://img.shields.io/badge/umarraj008-black?style=for-the-badge&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fumarraj008)
+![Static Badge](https://img.shields.io/badge/umar--rajput-black?style=for-the-badge&logo=linkedin&logoColor=black&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fumar-rajput%2F)
+![Static Badge](https://img.shields.io/badge/umar.rajput02%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=black&color=white)
+<br>
+<br>
 
+### [Check out my website 🌐](http://umarrajput.co.uk)
+<br>
+<!--
+![Static Badge](https://img.shields.io/badge/umarraj008-black?style=flat-square&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fumarraj008)
+![Static Badge](https://img.shields.io/badge/umar--rajput-black?style=flat-square&logo=linkedin&logoColor=black&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fumar-rajput%2F)
+![Static Badge](https://img.shields.io/badge/umar.rajput02%40gmail.com-black?style=flat-square&logo=gmail&logoColor=black&color=white)
+-->
 <h3>Languages and Tech</h3>
 <div align="left">
   <img height="64" width="64" src="https://cdn.simpleicons.org/javascript/black/white" />
@@ -31,4 +39,3 @@ I'm passionate about programming, software development, and computer science, I 
   <img height="64" width="64" src="https://cdn.simpleicons.org/phpmyadmin/black/white" />
   <img height="64" width="64" src="https://cdn.simpleicons.org/xampp/black/white" />
 </div>
-
