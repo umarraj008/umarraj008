@@ -16,6 +16,9 @@ I'm passionate about programming, software development, and computer science, I 
 -->
 <h3>Languages and Tech</h3>
 <div align="left">
+  <img height="64" width="64" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-w.svg#gh-dark-mode-only" />
+  <img height="64" width="64" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-b.svg#gh-light-mode-only" />
+  <img height="64" width="15" src="" />
   <img height="64" width="64" src="https://cdn.simpleicons.org/javascript/black/white" />
   <img height="64" width="15" src="" />
   <img height="64" width="64" src="https://cdn.simpleicons.org/html5/black/white" />
