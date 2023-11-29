@@ -16,43 +16,43 @@ I'm passionate about programming, software development, and computer science, I 
 -->
 <h3>Languages and Tech</h3>
 <div align="left">
-  <img height="64" width="64" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-w.svg#gh-dark-mode-only" />
-  <img height="64" width="64" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-b.svg#gh-light-mode-only" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/javascript/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/html5/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/css3/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/php/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/mysql/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/python/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/npm/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/node.js/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/express/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/socket.io/black/white" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-w.svg#gh-dark-mode-only" />
+  <img height="60" width="60" src="https://raw.githubusercontent.com/umarraj008/umarraj008/main/java-b.svg#gh-light-mode-only" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/javascript/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/html5/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/css3/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/php/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/mysql/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/python/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/npm/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/node.js/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/express/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/socket.io/black/white" />
 </div>
 
 <h3>Tools and IDE</h3>
 <div align="left">
-  <img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/visualstudio/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/eclipseide/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/intellijidea/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/androidstudio/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/phpmyadmin/black/white" />
-  <img height="64" width="15" src="" />
-  <img height="64" width="64" src="https://cdn.simpleicons.org/xampp/black/white" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/visualstudiocode/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/visualstudio/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/eclipseide/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/intellijidea/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/androidstudio/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/phpmyadmin/black/white" />
+  <img height="60" width="15" src="" />
+  <img height="60" width="60" src="https://cdn.simpleicons.org/xampp/black/white" />
 </div>
