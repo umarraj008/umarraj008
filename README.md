@@ -41,7 +41,7 @@ I'm passionate about programming, software development, and computer science, I 
   <img height="60" width="10" src="" />
   <img height="60" width="60" src="https://cdn.simpleicons.org/socket.io/black/white" />
   -->
-  <img src="https://skillicons.dev/icons?i=java,js,react,php,css,html,python,mysql,npm,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,php,spring,css,html,python,haskell,mysql,npm,nodejs,express,firebase" />
 </div>
 
 <h3>Tools and IDE</h3>
@@ -61,5 +61,5 @@ I'm passionate about programming, software development, and computer science, I 
   <img height="60" width="10" src="" />
   <img height="60" width="60" src="https://cdn.simpleicons.org/xampp/black/white" />
   -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,androidstudio,github,photoshop,blender,windows,apple,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,androidstudio,github,maven,gradle,figma,photoshop,blender,windows,apple,linux" />
 </div>
